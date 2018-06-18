@@ -1,0 +1,44 @@
+a{
+	margin: 0px;
+	color: black; 
+}
+div a{
+	position: relative;
+	left: 1650px;
+	padding: 5px;
+
+}
+div button{
+	position: relative;
+	left: 1650px;
+	padding: 5px;
+	background-color: #3579e8;
+	color: white;
+	font-weight: bold;
+}
+img{
+	height: 400px;
+	width: 600px;
+	position: relative;
+	top: 0px;
+	bottom:0px;
+	left:600px;
+	right: 0px; 
+}
+.center-box{
+	height: 50px;
+	width: 800px;
+	position: relative;
+	left: 495px;
+	bottom: 100px;
+}
+.center-buttons{
+	background-color: #c9d2e0;
+	color: #767b84;
+	font-weight: bold;
+	height: 40px;
+	width: 200px;
+	position: relative;
+	left: 680px;
+	bottom: 100px;
+}
